@@ -1,6 +1,6 @@
 {
   "name": "am-server",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "",
   "author": "",
   "license": "MIT",
@@ -67,5 +67,14 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coder2000/am-server.git"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }
