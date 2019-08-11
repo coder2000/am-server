@@ -1,3 +1,5 @@
+/* Copyright (c) 2019 Dieter Lunn */
+
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 

@@ -47,17 +47,18 @@
     "@types/jest": "24.0.17",
     "@types/node": "12.7.1",
     "@types/supertest": "2.0.8",
+    "copyright-header": "^0.4.4",
     "husky": "^3.0.3",
     "jest": "24.8.0",
     "prettier": "1.18.2",
+    "semantic-release": "^15.13.19",
     "supertest": "4.0.2",
     "ts-jest": "24.0.2",
     "ts-node": "8.3.0",
     "tsc-watch": "2.4.0",
     "tsconfig-paths": "3.8.0",
     "tslint": "5.18.0",
-    "typescript": "3.5.3",
-    "semantic-release": "^15.13.19"
+    "typescript": "3.5.3"
   },
   "jest": {
     "moduleFileExtensions": [

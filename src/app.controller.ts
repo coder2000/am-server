@@ -1,3 +1,5 @@
+/* Copyright (c) 2019 Dieter Lunn */
+
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 

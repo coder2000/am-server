@@ -1,3 +1,5 @@
+/* Copyright (c) 2019 Dieter Lunn */
+
 import {
   CreateDateColumn,
   Entity,
